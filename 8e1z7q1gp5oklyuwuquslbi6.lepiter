@@ -62,12 +62,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-18T12:33:41.489434+02:00"
+			"dateAndTimeString" : "2021-06-18T12:55:01.63661+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Page 1"
+		"title" : "self"
 	},
 	"uid" : {
 		"__type" : "uuid",
