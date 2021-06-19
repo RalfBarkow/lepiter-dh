@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T14:39:52.019297+02:00"
+						"dateAndTimeString" : "2021-06-19T14:43:44.400197+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,20 +29,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T14:39:57.541962+02:00"
+						"dateAndTimeString" : "2021-06-19T14:43:47.402629+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "B/qaeH+BDQC+deRHCFMiAg=="
+					"uidString" : "wAD3hn+BDQC+ffcNCFMiAg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[](https://digitalhumanitiesnow.org/about/)"
+				"string" : "[](https://pressforward.org/)"
 			},
 			{
-				"__type" : "textSnippet",
+				"__type" : "pictureSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T14:43:22.213407+02:00"
+						"dateAndTimeString" : "2021-06-19T14:44:06.994046+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T14:43:28.572505+02:00"
+						"dateAndTimeString" : "2021-06-19T14:44:06.994046+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "+8mjhX+BDQC+eeryCFMiAg=="
+					"uidString" : "uDxuiH+BDQC+f5PECFMiAg=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "[[PressForward]]"
+				"url" : ""
 			}
 		]
 	},
@@ -88,7 +85,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-19T14:39:41.437987+02:00"
+			"dateAndTimeString" : "2021-06-19T14:43:42.367136+02:00"
 		}
 	},
 	"editEmail" : {
@@ -99,15 +96,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-19T14:39:41.437987+02:00"
+			"dateAndTimeString" : "2021-06-19T14:43:42.367136+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Digital Humanities Now"
+		"title" : "PressForward"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "132b9a78-7f81-0d00-be74-f0ef08532202"
+		"uuid" : "f374f686-7f81-0d00-be7c-76c608532202"
 	}
 }
