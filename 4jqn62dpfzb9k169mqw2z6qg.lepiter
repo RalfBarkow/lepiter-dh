@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T15:40:33.79188+02:00"
+						"dateAndTimeString" : "2021-06-19T15:41:06.23708+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T15:40:43.675372+02:00"
+						"dateAndTimeString" : "2021-06-19T15:41:12.54799+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "ZzpBd3+BDQC+cZx3CFMiAg=="
+					"uidString" : "sLZTU4CBDQC+sH+kCFMiAg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Berry, Fagerjord 2017 – Digital humanities]]"
+				"string" : "[[Digital Humanities Stack (from Berry and Fagerjord 2017- 18)]]"
 			}
 		]
 	},
@@ -51,7 +51,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-19T14:39:18.78886+02:00"
+			"dateAndTimeString" : "2021-06-19T15:40:50.979723+02:00"
 		}
 	},
 	"editEmail" : {
@@ -62,15 +62,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-19T14:39:18.78886+02:00"
+			"dateAndTimeString" : "2021-06-19T15:40:50.979723+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Digital Humanities"
+		"title" : "Berry, Fagerjord 2017 – Digital humanities"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "07924077-7f81-0d00-be70-169108532202"
+		"uuid" : "d8ee5253-8081-0d00-beaf-361808532202"
 	}
 }

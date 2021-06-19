@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T15:40:43.675372+02:00"
+						"dateAndTimeString" : "2021-06-19T15:40:35.116261+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Berry, Fagerjord 2017 – Digital humanities]]"
+				"string" : "[[Berry, Fagerjord 2017 – Digital humanities]"
 			}
 		]
 	},
