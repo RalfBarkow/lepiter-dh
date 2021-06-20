@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T15:41:06.23708+02:00"
+						"dateAndTimeString" : "2021-06-20T08:45:38.117444+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T15:41:12.54799+02:00"
+						"dateAndTimeString" : "2021-06-20T08:45:40.64772+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Digital Humanities Stack (from Berry and Fagerjord 2017- 18)]]"
+				"string" : "[[Digital Humanities Stack]]"
 			}
 		]
 	},

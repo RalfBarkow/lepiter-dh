@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-19T15:41:06.23708+02:00"
+						"dateAndTimeString" : "2021-06-20T08:46:13.562461+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-20T05:50:26.519697+02:00"
+						"dateAndTimeString" : "2021-06-20T08:46:13.562461+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Digital Humanities Stack]]"
+				"string" : "{{gtPage:Digital Humanities Stack|db=8e1z7phtr3d5heft1v073804}}"
 			}
 		]
 	},
