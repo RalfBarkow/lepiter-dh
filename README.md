@@ -2,7 +2,8 @@
 
 Lepidus=glamorous, Iter=journey, dh=digital humanities
 
-This will be the lecture notes for a planned course on the foundations of the Digital Humanities.
+## Lecture Notes and Syllabus
+This will be the lecture notes and syllabus for a planned course on the foundations of the Digital Humanities.
 More precisely, it is a knowledge base – based on an engine called Glamorous Toolkit.
 
 ## Download the engine
