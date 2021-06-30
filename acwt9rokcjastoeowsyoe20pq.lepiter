@@ -5,40 +5,6 @@
 		"__type" : "snippets",
 		"items" : [
 			{
-				"__type" : "pictureSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-20T08:46:47.873559+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-20T08:46:58.362441+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "c5hmqI6BDQCLVzMCCkbb7g=="
-				},
-				"url" : "attachments/4jqn65q67nwyftx18f8t01bg/Digital Humanities Stack.jpg"
-			},
-			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -52,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-20T08:47:13.125975+02:00"
+						"dateAndTimeString" : "2021-06-30T12:59:03.439611+02:00"
 					}
 				},
 				"editEmail" : {
@@ -63,20 +29,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-20T08:47:13.125975+02:00"
+						"dateAndTimeString" : "2021-06-30T12:59:03.439611+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "KIneqY6BDQCLWUCcCkbb7g=="
+					"uidString" : "ZcH2WFuCDQCmOHKxBlf4rg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Abb. Digital Humanities Stack (aus Berry und Fagerjord 2017,18)"
+				"string" : ""
 			},
 			{
-				"__type" : "textSnippet",
+				"__type" : "wordSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -89,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-30T13:12:48.14948+02:00"
+						"dateAndTimeString" : "2021-06-30T13:25:11.729286+02:00"
 					}
 				},
 				"editEmail" : {
@@ -100,17 +66,50 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-30T13:12:51.309362+02:00"
+						"dateAndTimeString" : "2021-06-30T13:25:11.729286+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "9iXviVuCDQCk3LiABlf4rg=="
+					"uidString" : "xPRwtluCDQClHbSrBlf4rg=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
+				"wordString" : "object-oriented",
+				"explanationAttachmentNameString" : "attachments/acwt9rmfkjf0oyd3mcsidu784/word-snippet-explanation.json"
+			},
+			{
+				"__type" : "wordSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
 				},
-				"string" : "[[Computational Thinking]]"
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-06-30T13:25:24.878547+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-06-30T13:25:24.878547+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "F5k5t1uCDQClIxGuBlf4rg=="
+				},
+				"wordString" : "programming",
+				"explanationAttachmentNameString" : "attachments/acwt9roy2ynlag52wu3e48q6f/word-snippet-explanation.json"
 			}
 		]
 	},
@@ -122,7 +121,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-20T08:46:16.110472+02:00"
+			"dateAndTimeString" : "2021-06-30T12:59:03.439552+02:00"
 		}
 	},
 	"editEmail" : {
@@ -133,15 +132,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-20T08:46:16.110472+02:00"
+			"dateAndTimeString" : "2021-06-30T13:00:03.78299+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Digital Humanities Stack"
+		"title" : " Object-oriented"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "02ed81a6-8e81-0d00-8b53-16370a46dbee"
+		"uuid" : "1ebef658-5b82-0d00-a637-b4590657f8ae"
 	}
 }
