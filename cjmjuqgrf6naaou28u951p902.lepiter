@@ -1,0 +1,255 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-07T17:13:18.670411+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-07T17:14:30.739196+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UKckrOuCDQC0mBKfDDTn0w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "„Diesen geistigen Tätigkeitsvorgang der Auslese des gemeinsamen Merkmals nennen wir *Abstraktion*.“\r"
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2021-07-07T19:12:17.2275+02:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2021-07-07T19:13:48.521888+02:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "FYphYO2CDQC0oLT8DDTn0w=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "**EN**:  Here begins our new investigation. First we ask, what is a \"concept\", what is an \"abstraction\"? A concept is formed in such a way that from an indefinite number of objects, which coincide in at least one respect, the common characteristic of all these objects is picked out mentally and held for itself alone. Thus, for example, the concept of \"white\" is created by mentally separating out from all possible objects that are different in themselves but are connected by the same color, such as swan, chalk, snow, alabaster, milk, this color (color sensation) that is common to them. We call this mental process of selecting the common characteristic *abstraction*.\n"
+									},
+									{
+										"__type" : "wordSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2021-07-07T19:13:57.611544+02:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2021-07-07T19:13:57.611544+02:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "ZTScZu2CDQC0oRraDDTn0w=="
+										},
+										"wordString" : "abstraction",
+										"explanationAttachmentNameString" : "attachments/cjmjuqhcri61lyoz6vxteugkw/word-snippet-explanation.json"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-07T19:11:34.720324+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-07T19:11:34.720324+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "rQsMXu2CDQC0n1UcDDTn0w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : " Hier beginnt unsre neue Untersuchung. Zunächst fragen wir, was ist ein „Begriff\", was eine ,,Abstraktion\"? Ein B e g r i ff wird in der Weise gebildet, daß aus einer unbestimmten Anzahl von Gegenständen, die in mindestens e i n e r Beziehung übereinstimmen, das allen diesen Gegenständen g e m e i n s a m e  M e r k m a l gedanklich herausgegriffen und für sich allein festgehalten wird. So entsteht beispielsweise der Begriff „weiß,,, indem aus allen möglichen, an sich verschiedenen, aber durch die gleiche Farbe miteinander verbundenen Objekten, wie Schwan, Kreide, Schnee, Alabaster, Milch, diese ihnen gemeinsame Farbe (Farbempfindung) gedanklich abgesondert wird. Diesen geistigen Tätigkeitsvorgang der Auslese des gemeinsamen Merkmals nennen wir Ab s t r a kt i o n."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-07T17:11:51.250915+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-07T19:09:10.7314+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "JNDsseuCDQC0mxdRDDTn0w=="
+				},
+				"url" : "attachments/cjmjuqb9hoh3zmp4hwfzyx67w/Alsberg 1975 – Der Ausbruch aus dem Gefängnis - 70.png"
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-07T19:09:21.268289+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-07T19:09:34.211289+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "a4ojVu2CDQC0neYqDDTn0w=="
+				},
+				"url" : "attachments/cjmjuqfne9bwxghb2cwsfrh9x/Alsberg 1975 – Der Ausbruch aus dem Gefängnis - 71.png"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-07-07T17:10:14.196354+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-07-07T17:10:14.196354+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Alsberg 1975 – Der Ausbruch aus dem Gefängnis"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "d2de23ac-eb82-0d00-b497-1dde0c34e7d3"
+	}
+}
