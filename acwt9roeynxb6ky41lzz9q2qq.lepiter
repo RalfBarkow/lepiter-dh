@@ -149,6 +149,81 @@
 					"__type" : "textStyle"
 				},
 				"string" : "**DE**: Ein Ding, das eine verzweigte [[Struktur]] hat, die der eines Baumes ähnelt."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-08T11:55:07.996535+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-08T11:56:01.29078+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Uc71YvuCDQCEHdQ6ABZPEg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Informally, and using programming language jargon, a [[tree]] (xy) can be thought of as a \"function\" x applied to an \"argument\" y. When \"evaluated\" (i.e., when the function is \"applied\" to the argument), the tree \"returns a value\", i.e., transforms into another tree. Of course, all three of the \"function\", the \"argument\" and the \"value\" are either combinators, or binary trees, and if they are binary trees they too may be thought of as functions whenever the need arises. "
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-08T11:55:17.189828+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-08T11:55:38.749983+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "iGyXY/uCDQCEJuxYABZPEg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#SKI combinator calculus [](https://en.wikipedia.org/wiki/SKI_combinator_calculus)"
 			}
 		]
 	},
