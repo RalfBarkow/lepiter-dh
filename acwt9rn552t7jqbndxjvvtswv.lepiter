@@ -398,7 +398,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2021-06-30T13:21:51.833327+02:00"
+									"dateAndTimeString" : "2021-08-20T13:01:05.635193+02:00"
 								}
 							},
 							"uid" : {
@@ -408,44 +408,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "What other algorithms do you find?"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2021-06-30T13:22:56.04948+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2021-06-30T13:22:57.447662+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "PRYvrluCDQClAi+fBlf4rg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "##Patents and Export Restrictions"
+							"string" : "See [[Algorithms]]"
 						}
 					]
 				},
@@ -468,7 +431,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-30T13:05:59.900798+02:00"
+						"dateAndTimeString" : "2021-08-20T13:00:13.395284+02:00"
 					}
 				},
 				"uid" : {
