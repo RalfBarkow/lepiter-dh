@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-17T10:12:42.994873+02:00"
+						"dateAndTimeString" : "2021-09-17T10:05:24.90677+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-17T10:13:09.154017+02:00"
+						"dateAndTimeString" : "2021-09-17T10:05:37.480883+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "fDWAO46IDQCUXLGSBtAAkA=="
+					"uidString" : "lcaXHo6IDQCUUWRTBtAAkA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "\nBERRY, David M. and Anders FAGERJORD, 2017. Digital humanities: knowledge and critique in a digital age. Cambridge Malden, MA: Polity. ISBN 978-0-7456-9769-7"
+				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/--apis) – Application Programming Interfaces"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-20T08:46:13.562461+02:00"
+						"dateAndTimeString" : "2021-09-17T10:11:34.383007+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-06-20T08:46:13.562461+02:00"
+						"dateAndTimeString" : "2021-09-17T10:14:31.564663+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sLZTU4CBDQC+sH+kCFMiAg=="
+					"uidString" : "yGZnN46IDQCUUsRnBtAAkA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtPage:Digital Humanities Stack|db=8e1z7phtr3d5heft1v073804}}"
+				"string" : "Digital methods are concerned particularly with the use of computational techniques to extract, scrape, collect or capture digital data from various, usually internet-based, sites and services. Digital methods form a set of scholarly approaches that by using algorithms and code, mine large datasets that Amazon, Google, Twitter and other companies have made accessible via public interfaces ([[APIs]]), often to shed light on research questions from humanities and social sciences. Thus, different registers are combined in ingenious ways to be able to find information on topics they were not designed to cover. ([[Berry, Fagerjord 2017 – Digital humanities]], 22) \r"
 			}
 		]
 	},
@@ -88,7 +88,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-19T15:40:50.979723+02:00"
+			"dateAndTimeString" : "2021-09-17T10:04:37.181144+02:00"
 		}
 	},
 	"editEmail" : {
@@ -99,15 +99,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-06-19T15:40:50.979723+02:00"
+			"dateAndTimeString" : "2021-09-17T10:04:37.181144+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Berry, Fagerjord 2017 – Digital humanities"
+		"title" : "APIs"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "d8ee5253-8081-0d00-beaf-361808532202"
+		"uuid" : "bcf0961e-8e88-0d00-9450-366d06d00090"
 	}
 }
