@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-17T10:13:09.154017+02:00"
+						"dateAndTimeString" : "2021-09-17T13:24:33.334693+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "\nBERRY, David M. and Anders FAGERJORD, 2017. Digital humanities: knowledge and critique in a digital age. Cambridge Malden, MA: Polity. ISBN 978-0-7456-9769-7"
+				"string" : "BERRY, David M. and Anders FAGERJORD, 2017. Digital humanities: knowledge and critique in a digital age. Cambridge Malden, MA: Polity. ISBN 978-0-7456-9769-7"
 			},
 			{
 				"__type" : "textSnippet",
